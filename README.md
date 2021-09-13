@@ -1,2 +1,5 @@
 # React-AutoComplete-Delay
-Created with CodeSandbox
+
+Add delay for search on typing in input field for performance.
+
+When a user types something, the function will wait for few seconds before calling the API.
